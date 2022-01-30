@@ -21,7 +21,8 @@
       ["es",new Language('crear campo','código','nombre','escribe','valores disponibles','descripción','visibilidad','Crear','cancelar')],
       ["ru-RU",new Language('создать поле','Kод','название','тип','доступные значения','описание','видимость','Создать','отменить')],
       ["he-IL",new Language('ליצור שדה','קוד','שם','סוג','ערכים זמינים','תאור','רְאוּת','ליצור','לבטל')],
-      ["ar",new Language('خلق المجال','الشفرة','اسم','نوع','القيم المتاحة','وصف','الرؤية','يخلق','إلغاء')],["de",new Language('Feld erstellen','Code','Name','Typ','Verfügbare Werte','Beschreibung','Sichtweite','Erstellen','Abbrechen')]
+      ["ar",new Language('خلق المجال','الشفرة','اسم','نوع','القيم المتاحة','وصف','الرؤية','يخلق','إلغاء')],
+      ["de",new Language('Feld erstellen','Code','Name','Typ','Verfügbare Werte','Beschreibung','Sichtweite','Erstellen','Abbrechen')]
     ]);
 
   // This function gets languages from the Languages Map and sets it to inner HTML dropdown list
